@@ -4,7 +4,7 @@
 ### 🧒🏼 About me
 
 <p>
-  <img width="250" align='left' src="https://github.com/noelvarga25/noelvarga25/blob/main/assets/social/me.png">
+  <img width="250" align='left' src="https://github.com/noelvarga25/noelvarga25/blob/main/assets/social/me.jpg">
 </p>
 
 As a very energetic person, I also love playing sports during my free time. I practice different
