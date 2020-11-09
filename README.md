@@ -12,7 +12,7 @@ As a very energetic person, I also love playing sports during my free time. I pr
 activities such as windsurfing during summer and tennis or soccer during winter. If I have the
 chance, I try to play some volleyball and handball.
 
-
+<h2></h2>
 
 ### 👨🏼‍🎓 I'm a student @ [Epitech](https://www.epitech.eu/en/) 👨🏼‍🎓
 
@@ -22,7 +22,7 @@ our adaptability.
 
 The school main principle is that we have to learn by doing.
 
-
+<h2></h2>
 
 ### 💻 Programming languages 💻
 
@@ -36,7 +36,7 @@ The school main principle is that we have to learn by doing.
 <img height="30" src="https://github.com/noelvarga25/noelvarga25/blob/main/assets/flutter.png">
 </p>
 
-    
+<h2></h2>
 
 ### 🛠️ Tools 🛠️
 
@@ -44,10 +44,6 @@ The school main principle is that we have to learn by doing.
 <img height="30" src="https://github.com/noelvarga25/noelvarga25/blob/main/assets/linux.png">
 <img height="30" src="https://github.com/noelvarga25/noelvarga25/blob/main/assets/git.png">
 <img height="30" src="https://github.com/noelvarga25/noelvarga25/blob/main/assets/vscode.png">
-<img height="30" src="https://github.com/noelvarga25/noelvarga25/blob/main/assets/python.png">
-<img height="30" src="https://github.com/noelvarga25/noelvarga25/blob/main/assets/react.png">
-<img height="30" src="https://github.com/noelvarga25/noelvarga25/blob/main/assets/js.png">
-<img height="30" src="https://github.com/noelvarga25/noelvarga25/blob/main/assets/flutter.png">
 </p>
 
 <details>
