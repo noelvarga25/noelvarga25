@@ -48,6 +48,8 @@ The school's main principle is that we have to learn by doing.
 <img height="30" src="https://github.com/noelvarga25/noelvarga25/blob/main/assets/tools/linux.png">
 <img height="30" src="https://github.com/noelvarga25/noelvarga25/blob/main/assets/tools/git.png">
 <img height="30" src="https://github.com/noelvarga25/noelvarga25/blob/main/assets/tools/vscode.png">
+<img height="30" src="https://github.com/noelvarga25/noelvarga25/blob/main/assets/tools/docker.png">
+<img height="30" src="https://github.com/noelvarga25/noelvarga25/blob/main/assets/tools/kubernetes.png">
 </p>
 
 <h2></h2>
