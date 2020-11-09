@@ -46,12 +46,14 @@ The school main principle is that we have to learn by doing.
 <img height="30" src="https://github.com/noelvarga25/noelvarga25/blob/main/assets/vscode.png">
 </p>
 
-<details>
-  <summary><b>⚡ Github Stats</b></summary>
+<h2></h2>
+
+### ⚡ My Github Stats
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=noelvarga25&count_private=true&show_icons=true&hide_border=true" height='120'/>
 <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=noelvarga25&layout=compact&hide_border=true' alt='github' height='120'/>
-</details>
+
+<h2></h2>
 
 <p align='center'>
 <a href="https://dev.to/noelvarga25"><img height="30" src="https://github.com/noelvarga25/noelvarga25/blob/main/assets/dev.png"></a>
