@@ -1,8 +1,9 @@
 
 <p align='center'>
-<a href="https://dev.to/noelvarga25"><img height="30" src="https://github.com/noelvarga25/noelvarga25/blob/main/assets/dev1.png"></a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/noelvarga/"><img height="30" src="https://github.com/noelvarga25/noelvarga25/blob/main/assets/linkedin1.png"></a>
+<a href="https://dev.to/noelvarga25"><img height="30" src="https://github.com/noelvarga25/noelvarga25/blob/main/assets/dev.png"></a>
+<a href="https://www.linkedin.com/in/noelvarga/"><img height="30" src="https://github.com/noelvarga25/noelvarga25/blob/main/assets/linkedin.png"></a>
 </p>
+
 ### Hi there 👋
 
 <!--
