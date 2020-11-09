@@ -6,7 +6,7 @@
 
 ### 💻 Programming languages 💻
 
-<p align='center'>
+<p>
 <img height="30" src="https://github.com/noelvarga25/noelvarga25/blob/main/assets/C.png">
 <img height="30" src="https://github.com/noelvarga25/noelvarga25/blob/main/assets/python.png">
 <img height="30" src="https://github.com/noelvarga25/noelvarga25/blob/main/assets/c++.png">
