@@ -1,7 +1,7 @@
-<h2 align="center">Hi, my name is Noel 👋</h2>
+<h2 align="center">Hi, I'm Noel 👋</h2>
 
 
-### 🧒🏼 About me 🧒🏼
+### 🧒🏼 About me
 
 As I love discovering new things, any work experience is good to take even besides my studies.
 This allows me to feed my curiosity and gain work experience at the same time. For example, I
@@ -14,7 +14,7 @@ chance, I try to play some volleyball and handball.
 
 <h2></h2>
 
-### 👨🏼‍🎓 I'm a student @ [Epitech](https://www.epitech.eu/en/) 👨🏼‍🎓
+### 👨🏼‍🎓 I'm a student @ [Epitech](https://www.epitech.eu/en/)
 
 I am a first year student in computer science at Epitech (European Institute of Information
 Technology). Our main strength at Epitech is our ability to learn new programming languages and
@@ -24,7 +24,7 @@ The school main principle is that we have to learn by doing.
 
 <h2></h2>
 
-### 💻 Programming languages 💻
+### 💻 Programming languages
 
 <p>
 <img height="30" src="https://github.com/noelvarga25/noelvarga25/blob/main/assets/C.png">
@@ -38,7 +38,7 @@ The school main principle is that we have to learn by doing.
 
 <h2></h2>
 
-### 🛠️ Tools 🛠️
+### 🛠️ Tools
 
 <p>
 <img height="30" src="https://github.com/noelvarga25/noelvarga25/blob/main/assets/linux.png">
@@ -47,7 +47,7 @@ The school main principle is that we have to learn by doing.
 </p>
 
 <details>
-  <summary><b>⚡ Github Stats ⚡</b></summary>
+  <summary><b>⚡ Github Stats</b></summary>
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=noelvarga25&count_private=true&show_icons=true&hide_border=true" height='120'/>
 <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=noelvarga25&layout=compact&hide_border=true' alt='github' height='120'/>
