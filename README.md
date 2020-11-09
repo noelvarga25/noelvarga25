@@ -1,3 +1,8 @@
+
+<p align='center'>
+<a href="https://dev.to/noelvarga25"><img height="30" src="https://raw.githubusercontent.com/WaylonWalker/WaylonWalker/main/icon/dev.png"></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/noelvarga/"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>
+</p>
 ### Hi there 👋
 
 <!--
