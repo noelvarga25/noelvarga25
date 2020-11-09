@@ -1,7 +1,7 @@
 
 <p align='center'>
 <a href="https://dev.to/noelvarga25"><img height="30" src="https://github.com/noelvarga25/noelvarga25/blob/main/assets/dev.png"></a>
-<a href="https://www.linkedin.com/in/noelvarga/"><img height="25" src="https://github.com/noelvarga25/noelvarga25/blob/main/assets/linkedin.png"></a>
+<a href="https://www.linkedin.com/in/noelvarga/"><img height="28" src="https://github.com/noelvarga25/noelvarga25/blob/main/assets/linkedin.png"></a>
 </p>
 
 ### Hi there 👋
