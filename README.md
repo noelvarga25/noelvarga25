@@ -3,6 +3,10 @@
 
 ### 🧒🏼 About me
 
+<p>
+  <img width="250" align='left' src="https://github.com/noelvarga25/noelvarga25/blob/main/assets/social/me.png">
+</p>
+
 As a very energetic person, I also love playing sports during my free time. I practice different
 activities such as windsurfing during summer and tennis or soccer during winter. If I have the
 chance, I try to play some volleyball and handball.
@@ -27,13 +31,13 @@ The school's main principle is that we have to learn by doing.
 ### 💻 Programming languages
 
 <p>
-<img height="30" src="https://github.com/noelvarga25/noelvarga25/blob/main/assets/C.png">
-<img height="30" src="https://github.com/noelvarga25/noelvarga25/blob/main/assets/c++.png">
-<img height="30" src="https://github.com/noelvarga25/noelvarga25/blob/main/assets/csh.png">
-<img height="30" src="https://github.com/noelvarga25/noelvarga25/blob/main/assets/python.png">
-<img height="30" src="https://github.com/noelvarga25/noelvarga25/blob/main/assets/react.png">
-<img height="30" src="https://github.com/noelvarga25/noelvarga25/blob/main/assets/js.png">
-<img height="30" src="https://github.com/noelvarga25/noelvarga25/blob/main/assets/flutter.png">
+<img height="30" src="https://github.com/noelvarga25/noelvarga25/blob/main/assets/programming/C.png">
+<img height="30" src="https://github.com/noelvarga25/noelvarga25/blob/main/assets/programming/c++.png">
+<img height="30" src="https://github.com/noelvarga25/noelvarga25/blob/main/assets/programming/csh.png">
+<img height="30" src="https://github.com/noelvarga25/noelvarga25/blob/main/assets/programming/python.png">
+<img height="30" src="https://github.com/noelvarga25/noelvarga25/blob/main/assets/programming/react.png">
+<img height="30" src="https://github.com/noelvarga25/noelvarga25/blob/main/assets/programming/js.png">
+<img height="30" src="https://github.com/noelvarga25/noelvarga25/blob/main/assets/programming/flutter.png">
 </p>
 
 <h2></h2>
@@ -41,9 +45,9 @@ The school's main principle is that we have to learn by doing.
 ### 🛠️ Tools
 
 <p>
-<img height="30" src="https://github.com/noelvarga25/noelvarga25/blob/main/assets/linux.png">
-<img height="30" src="https://github.com/noelvarga25/noelvarga25/blob/main/assets/git.png">
-<img height="30" src="https://github.com/noelvarga25/noelvarga25/blob/main/assets/vscode.png">
+<img height="30" src="https://github.com/noelvarga25/noelvarga25/blob/main/assets/tools/linux.png">
+<img height="30" src="https://github.com/noelvarga25/noelvarga25/blob/main/assets/tools/git.png">
+<img height="30" src="https://github.com/noelvarga25/noelvarga25/blob/main/assets/tools/vscode.png">
 </p>
 
 <h2></h2>
@@ -56,6 +60,6 @@ The school's main principle is that we have to learn by doing.
 <h2></h2>
 
 <p align='center'>
-<a href="https://dev.to/noelvarga25"><img height="30" src="https://github.com/noelvarga25/noelvarga25/blob/main/assets/dev.png"></a>
-<a href="https://www.linkedin.com/in/noelvarga/"><img height="30" src="https://github.com/noelvarga25/noelvarga25/blob/main/assets/linkedin.png"></a>
+<a href="https://dev.to/noelvarga25"><img height="30" src="https://github.com/noelvarga25/noelvarga25/blob/main/assets/social/dev.png"></a>
+<a href="https://www.linkedin.com/in/noelvarga/"><img height="30" src="https://github.com/noelvarga25/noelvarga25/blob/main/assets/social/linkedin.png"></a>
 </p>
