@@ -1,22 +1,10 @@
+<h2 align="center">Hi, my name is Noel 👋</h2>
+
+    ---
+
+### 📚 I'm a student @ <img height="30" style="border-radius:50%" src="https://github.com/noelvarga25/noelvarga25/blob/main/assets/epitech.png">
 
 <p align='center'>
 <a href="https://dev.to/noelvarga25"><img height="30" src="https://github.com/noelvarga25/noelvarga25/blob/main/assets/dev.png"></a>
 <a href="https://www.linkedin.com/in/noelvarga/"><img height="30" src="https://github.com/noelvarga25/noelvarga25/blob/main/assets/linkedin.png"></a>
 </p>
-
-### Hi there 👋
-
-<!--
-**noelvarga25/noelvarga25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
