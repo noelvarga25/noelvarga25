@@ -65,6 +65,7 @@ The school's main principle is that we have to learn by doing.
 <h2></h2>
 
 <p align='center'>
+<a href="https://github.com/noelvarga25"><img height="30" src="https://github.com/noelvarga25/noelvarga25/blob/main/assets/social/github.png"></a>
 <a href="https://dev.to/noelvarga25"><img height="30" src="https://github.com/noelvarga25/noelvarga25/blob/main/assets/social/dev.png"></a>
 <a href="https://www.linkedin.com/in/noelvarga/"><img height="30" src="https://github.com/noelvarga25/noelvarga25/blob/main/assets/social/linkedin.png"></a>
 </p>
