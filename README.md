@@ -1,3 +1,6 @@
+
+[![Noel's banner](https://github.com/noelvarga25/noelvarga25/blob/main/assets/social/banner.gif)](https://github.com/noelvarga25)
+
 <h2 align="center">Hi, I'm Noel 👋</h2>
 
 
