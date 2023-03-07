@@ -57,10 +57,11 @@ The school's main principle is that we have to learn by doing.
 
 <h2></h2>
 
-### ⚡ My Github Stats
+### ⚡ My Stats
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=noelvarga25&count_private=true&show_icons=true&hide_border=true" height='120'/>
 <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=noelvarga25&layout=compact&hide_border=true' alt='github' height='120'/>
+<img src="https://tryhackme-badges.s3.amazonaws.com/Pepito.png" alt="TryHackMe">
 
 <h2></h2>
 
@@ -69,8 +70,3 @@ The school's main principle is that we have to learn by doing.
 <a href="https://dev.to/noelvarga25"><img height="30" src="https://github.com/noelvarga25/noelvarga25/blob/main/assets/social/dev.png"></a>
 <a href="https://www.linkedin.com/in/noelvarga/"><img height="30" src="https://github.com/noelvarga25/noelvarga25/blob/main/assets/social/linkedin.png"></a>
 </p>
-
-### ⚡ TryHackMe
-
-<img src="https://tryhackme-badges.s3.amazonaws.com/Pepito.png" alt="TryHackMe">
-
