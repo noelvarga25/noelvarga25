@@ -69,3 +69,8 @@ The school's main principle is that we have to learn by doing.
 <a href="https://dev.to/noelvarga25"><img height="30" src="https://github.com/noelvarga25/noelvarga25/blob/main/assets/social/dev.png"></a>
 <a href="https://www.linkedin.com/in/noelvarga/"><img height="30" src="https://github.com/noelvarga25/noelvarga25/blob/main/assets/social/linkedin.png"></a>
 </p>
+
+### ⚡ TryHackMe
+
+<script src="https://tryhackme.com/badge/29660"></script>
+
