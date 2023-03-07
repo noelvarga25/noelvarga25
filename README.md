@@ -72,5 +72,5 @@ The school's main principle is that we have to learn by doing.
 
 ### ⚡ TryHackMe
 
-<script src="https://tryhackme.com/badge/29660"></script>
+<img src="https://tryhackme-badges.s3.amazonaws.com/Pepito.png" alt="TryHackMe">
 
