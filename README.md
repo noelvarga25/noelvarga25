@@ -10,24 +10,22 @@
   <img width="150" align='left' src="https://github.com/noelvarga25/noelvarga25/blob/main/assets/social/me.jpg">
 </p>
 
-As a very energetic person, I also love playing sports during my free time. I practice different
-activities such as windsurfing during summer and tennis or soccer during winter. If I have the
-chance, I try to play some volleyball and handball.
+Hi, I am Noel Varga, a Computer Science graduate with a specialty in DevOps and Cybersecurity.
 
-As I love discovering new things, any work experience is good to take even besides my studies.
-This allows me to feed my curiosity and gain work experience at the same time. For example, I
-have been managing the website of a german ceramic brand in Greece. Otherwise, I have been a
-windsurf instructor since I was 16.
+Throughout my academic journey, I have honed my skills in various technologies, frameworks, and methodologies.
+I am committed to excellence and constantly seeking new opportunities to expand my knowledge and skills. My passion for utilizing my expertise to make a positive impact drives me. 
+
+I am excited about the future and eager to tackle new challenges in the world of technology !
 
 <h2></h2>
 
 ### 👨🏼‍🎓 I am a student @ [Epitech](https://www.epitech.eu/en/)
 
-I am a computer science student at Epitech (European Institute of Information
-Technology). Our main strength at Epitech is our ability to learn new programming languages and
-our adaptability.
+It is my pleasure to announce that I have successfully completed my Bachelors degree in Computer Science at EPITECH during the current semester of 2023 !
 
-The school's main principle is that we have to learn by doing.
+I am excited to share that I will be continuing my academic journey in the field of Cybersecurity in Kuala Lumpur. This next step in my education will provide me with valuable international experience, and allow me to expand my knowledge and skills in this dynamic field.
+
+I look forward to embracing this new challenge and contributing to the advancement of Cybersecurity!
 
 <h2></h2>
 
