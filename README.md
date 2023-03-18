@@ -59,7 +59,7 @@ I look forward to embracing this new challenge and contributing to the advanceme
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=noelvarga25&count_private=true&show_icons=true&hide_border=true" height='120'/>
 <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=noelvarga25&layout=compact&hide_border=true' alt='github' height='120'/>
-<img src="https://tryhackme-badges.s3.amazonaws.com/Pepito.png" alt="TryHackMe">
+<img src="https://tryhackme-badges.s3.amazonaws.com/noelvarga.png" alt="TryHackMe">
 
 <h2></h2>
 
